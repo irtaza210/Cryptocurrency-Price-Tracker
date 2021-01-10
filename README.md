@@ -1,6 +1,8 @@
 A React application which uses AXIOS to fetch data from the CoinGecko API & displays the hourly prices of cryptocurrencies like Bitcoin & Ethereum & their historical change in value using Material UI design.
 
 <img width="800" alt="app" src="https://user-images.githubusercontent.com/54458381/104138527-3d004a00-536a-11eb-84de-4ddda9b6bdb4.png">
+<img width="800" alt="material1" src="https://user-images.githubusercontent.com/54458381/104138565-6e791580-536a-11eb-93b1-ba9e3f604145.png">
+<img width="800" alt="material2" src="https://user-images.githubusercontent.com/54458381/104138569-70db6f80-536a-11eb-9849-917b4a294c3e.png">
 
 
 
