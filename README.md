@@ -5,6 +5,7 @@ A React application which uses AXIOS to fetch data from the CoinGecko API & disp
 <img width="800" alt="material2" src="https://user-images.githubusercontent.com/54458381/104138569-70db6f80-536a-11eb-9849-917b4a294c3e.png">
 
 <img width="800" alt="material1" src="https://user-images.githubusercontent.com/54458381/104138565-6e791580-536a-11eb-93b1-ba9e3f604145.png">
+<img width="800" alt="Screen Shot 2021-01-10 at 6 46 39 PM" src="https://user-images.githubusercontent.com/54458381/104139945-4bebfa00-5374-11eb-8d17-adc13ccbae1a.png">
 
 
 # Getting Started with Create React App
